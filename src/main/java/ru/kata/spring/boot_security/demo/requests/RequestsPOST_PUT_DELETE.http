@@ -1,31 +1,29 @@
-###
-GET http://94.198.50.185:7081/api/users
-Accept: application/json
-
-###
 POST http://94.198.50.185:7081/api/users
-Cookie: JSESSIONID=DB301513AA13EE46BDA097D5631A6D80; Path=/; HttpOnly
+Cookie: JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; HttpOnly
 Content-Type: application/json
 Accept: application/json
 
+
 {
+  "id": 3,
   "name": "James",
   "lastName": "Brown",
   "age": 33
 }
 ###
 PUT http://94.198.50.185:7081/api/users
-Cookie: JSESSIONID=DB301513AA13EE46BDA097D5631A6D80; Path=/; HttpOnly
+Cookie: JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; HttpOnly
 Content-Type: application/json
 Accept: application/json
+
 
 {
   "id": 3,
   "name": "Thomas",
   "lastName": "Shelby",
-  "age": 55
+  "age": 33
 }
 ###
 DELETE http://94.198.50.185:7081/api/users/3
-Cookie: JSESSIONID=DB301513AA13EE46BDA097D5631A6D80; Path=/; HttpOnly
+Cookie: JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; HttpOnly
 Accept: application/json

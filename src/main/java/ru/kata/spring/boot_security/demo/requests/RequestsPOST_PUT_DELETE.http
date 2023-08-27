@@ -3,19 +3,18 @@ Cookie: JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; HttpOnly
 Content-Type: application/json
 Accept: application/json
 
-
 {
   "id": 3,
   "name": "James",
   "lastName": "Brown",
   "age": 33
 }
+
 ###
 PUT http://94.198.50.185:7081/api/users
 Cookie: JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; HttpOnly
 Content-Type: application/json
 Accept: application/json
-
 
 {
   "id": 3,
@@ -23,6 +22,7 @@ Accept: application/json
   "lastName": "Shelby",
   "age": 33
 }
+
 ###
 DELETE http://94.198.50.185:7081/api/users/3
 Cookie: JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; HttpOnly

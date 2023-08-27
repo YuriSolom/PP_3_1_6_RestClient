@@ -1,7 +1,6 @@
 package ru.kata.spring.boot_security.demo.client;
 
 import org.springframework.http.*;
-import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestTemplate;
 import ru.kata.spring.boot_security.demo.entity.Employee;
 

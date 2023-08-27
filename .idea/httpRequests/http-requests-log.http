@@ -1,0 +1,781 @@
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; JSESSIONID=341E28A2949805CABF676F6022D45F8C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-27T131954-1.200.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; JSESSIONID=341E28A2949805CABF676F6022D45F8C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-27T131954.200.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; JSESSIONID=5D0F3244EB46DD0ECF0E7651763C2A07
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-27T131953.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; JSESSIONID=5D0F3244EB46DD0ECF0E7651763C2A07
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-27T131943.400.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; JSESSIONID=51F246F8D05A9AD3276389948E2E3ECF
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-27T131942.400.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; JSESSIONID=3DF616BA52066D7F0E7226432E44F514
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-27T131941.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; JSESSIONID=3DF616BA52066D7F0E7226432E44F514
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T234515-2.200.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; JSESSIONID=3DF616BA52066D7F0E7226432E44F514
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-26T234515-1.200.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=1B0264542852BDB0F4E1E50B75614710; Path=/; JSESSIONID=1B0264542852BDB0F4E1E50B75614710
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-26T234515.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=B15D0B4CD0026C33EA6D365EA20BDA51
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T234447.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=6C134AF0415A051C95341356575C6D3B; Path=/; JSESSIONID=B15D0B4CD0026C33EA6D365EA20BDA51
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T231837.200.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=6C134AF0415A051C95341356575C6D3B; Path=/; JSESSIONID=B15D0B4CD0026C33EA6D365EA20BDA51
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-26T231836-1.200.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=6C134AF0415A051C95341356575C6D3B; Path=/; JSESSIONID=5AB6E0687C9CF3F6775962DAC5DA72EC
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-26T231836.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=2C90ECED031EBE370402D6918DBE2EC2
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T231832.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=6C134AF0415A051C95341356575C6D3B; Path=/; JSESSIONID=2C90ECED031EBE370402D6918DBE2EC2
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T231757.200.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=6C134AF0415A051C95341356575C6D3B; Path=/; JSESSIONID=2C90ECED031EBE370402D6918DBE2EC2
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-26T231756-1.200.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=6C134AF0415A051C95341356575C6D3B; Path=/; JSESSIONID=014BF69BEF867168E1516E44EFB3A9A8
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-26T231756.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=52B26D1A47AD00A3C54BF8A5BA4E8115; Path=/; JSESSIONID=014BF69BEF867168E1516E44EFB3A9A8
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T231539-1.200.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=52B26D1A47AD00A3C54BF8A5BA4E8115; Path=/; JSESSIONID=014BF69BEF867168E1516E44EFB3A9A8
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-26T231539.200.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=52B26D1A47AD00A3C54BF8A5BA4E8115; Path=/; JSESSIONID=52B26D1A47AD00A3C54BF8A5BA4E8115
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-26T231538.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=DC442E13475F317D9EEDF147F533D465
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T231523.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=6C134AF0415A051C95341356575C6D3B; Path=/; JSESSIONID=DC442E13475F317D9EEDF147F533D465
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T231259-3.200.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=6C134AF0415A051C95341356575C6D3B; Path=/; JSESSIONID=DC442E13475F317D9EEDF147F533D465
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-26T231259-2.200.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=6C134AF0415A051C95341356575C6D3B; Path=/; JSESSIONID=DC442E13475F317D9EEDF147F533D465
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-26T231259-1.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=6C134AF0415A051C95341356575C6D3B
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T231259.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=D2153B22B9A179B8681469E26007AE9C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T230753.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=D2153B22B9A179B8681469E26007AE9C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225616-1.200.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=D2153B22B9A179B8681469E26007AE9C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-26T225616.200.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=D2153B22B9A179B8681469E26007AE9C
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-26T225615-1.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=9291C7A7E813121672BAF7BBFC26D841
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225615.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=9291C7A7E813121672BAF7BBFC26D841
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225541-1.400.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=9291C7A7E813121672BAF7BBFC26D841
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 21
+}
+
+<> 2023-08-26T225541.400.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 57
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=9291C7A7E813121672BAF7BBFC26D841
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "James",
+  "lastName": "Brown",
+  "age": 21
+}
+
+<> 2023-08-26T225541-1.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=21AA0CF0C7CC47181DE94DEBBEEC1B8A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225541.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=21AA0CF0C7CC47181DE94DEBBEEC1B8A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225453-3.200.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=21AA0CF0C7CC47181DE94DEBBEEC1B8A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 21
+}
+
+<> 2023-08-26T225453-2.200.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=21AA0CF0C7CC47181DE94DEBBEEC1B8A
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 21
+}
+
+<> 2023-08-26T225453-1.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=78CFB21F3659972BDD31E3726F54A4E8
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225453.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=78CFB21F3659972BDD31E3726F54A4E8
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225326-1.400.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=4F0B89AFE6548F69E0604B85D49F01A9
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-26T225326.400.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 68
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=4F0B89AFE6548F69E0604B85D49F01A9
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-26T225320-1.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=C8FB005EB0EC46692E2E2DE903C59D43
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225320.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=C8FB005EB0EC46692E2E2DE903C59D43
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225224-1.400.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=C8FB005EB0EC46692E2E2DE903C59D43
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 33
+}
+
+<> 2023-08-26T225224.400.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 57
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=4FBB1354EC86107BE00F8535A2689A8E
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-26T225223.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=31C0825BABD53E9311B91F27BCFE7684
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T225222.200.json
+
+###
+
+DELETE http://94.198.50.185:7081/api/users/3
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=DB301513AA13EE46BDA097D5631A6D80; Path=/; JSESSIONID=31C0825BABD53E9311B91F27BCFE7684
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T220102-1.400.json
+
+###
+
+PUT http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 70
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=DB301513AA13EE46BDA097D5631A6D80; Path=/; JSESSIONID=31C0825BABD53E9311B91F27BCFE7684
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "id": 3,
+  "name": "Thomas",
+  "lastName": "Shelby",
+  "age": 55
+}
+
+<> 2023-08-26T220102.400.json
+
+###
+
+POST http://94.198.50.185:7081/api/users
+Content-Type: application/json
+Accept: application/json
+Content-Length: 57
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: HttpOnly; JSESSIONID=DB301513AA13EE46BDA097D5631A6D80; Path=/; JSESSIONID=31C0825BABD53E9311B91F27BCFE7684
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+{
+  "name": "James",
+  "lastName": "Brown",
+  "age": 33
+}
+
+<> 2023-08-26T220102-1.200.json
+
+###
+
+GET http://94.198.50.185:7081/api/users
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.7)
+Cookie: JSESSIONID=F9BCE4BC30D91471E80AA32405B337A6
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-08-26T220102.200.json
+
+###
+

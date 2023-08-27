@@ -14,7 +14,7 @@ public class SpringRestClient {
     private static final String URL = "http://94.198.50.185:7081/api/users";
     private static final String DELETE_URL = "http://94.198.50.185:7081/api/users/{id}";
     private static RestTemplate restTemplate = new RestTemplate();
-    String cookies;
+    private String cookies;
 
     public static void main(String[] args) {
         SpringRestClient springRestClient = new SpringRestClient();
